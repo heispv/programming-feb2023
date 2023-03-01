@@ -13,3 +13,4 @@ git clone https://github.com/heispv/programming-feb2023.git
 | 03 | [What are Strings?](https://github.com/heispv/programming-feb2023/blob/master/03_programming.ipynb) | `String`, `Escape Characters`, `Slicing`, `String Methods` | | 15 Feb 2023 |
 | 04 | [Booleans and Lists](https://github.com/heispv/programming-feb2023/blob/master/04_programming.ipynb) | `ChatGPT`, `Boolean`, `List`, `List Methods` | [Work With Bool & List](https://github.com/heispv/programming-feb2023/blob/master/04_programming_exercise.ipynb) | 20 Feb 2023 |
 | 05 | [Let's finish our Data Types](https://github.com/heispv/programming-feb2023/blob/master/05_programming.ipynb) | `Tuple`, `Dict`, `Set`, `and their Methods` | | 22 Feb 2023 |
+| 06 | [How to commit changes in GitHub (not completed)](https://github.com/heispv/programming-feb2023/blob/master/05_programming.ipynb) |  | 27 Feb 2023 | 
