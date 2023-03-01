@@ -1,6 +1,6 @@
 # programming-feb2022
 
-To clone this repo using HTTPS run the code below in your terminal:
+To clone this repos using HTTPS run the code below in your terminal:
 ```
 git clone https://github.com/heispv/programming-feb2023.git
 ```
