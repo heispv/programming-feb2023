@@ -15,3 +15,4 @@ git clone https://github.com/heispv/programming-feb2023.git
 | 05 | [Let's finish our Data Types](https://github.com/heispv/programming-feb2023/blob/master/05_programming.ipynb) | `Tuple`, `Dict`, `Set`, `and their Methods` | | | 22 Feb 2023 |
 | 06 | [How to commit changes in GitHub (not completed)](https://github.com/heispv/programming-feb2023/blob/master/05_programming.ipynb) |  |  | [How to send Pull Request in GitHub?](https://drive.google.com/file/d/1M_M3X3apYGLUWl_faD_q4glph-GCeBMO/view) | 27 Feb 2023 | 
 | 07 | [Conditional Statements](https://github.com/heispv/programming-feb2023/blob/master/07_programming.ipynb) | `if`, `elif`, `else`, `Truthy`, `Falsy` |  |  | 1 Mar 2023 |
+| 08 | [Loops](https://github.com/heispv/programming-feb2023/blob/master/08_programming.ipynb) | `loops`, `for`, `continue` |  |  | 6 Mar 2023 |
