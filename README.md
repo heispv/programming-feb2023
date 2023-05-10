@@ -16,3 +16,9 @@ git clone https://github.com/heispv/programming-feb2023.git
 | 06 | [How to commit changes in GitHub (not completed)](https://github.com/heispv/programming-feb2023/blob/master/05_programming.ipynb) |  |  | [How to send Pull Request in GitHub?](https://drive.google.com/file/d/1M_M3X3apYGLUWl_faD_q4glph-GCeBMO/view) | 27 Feb 2023 | 
 | 07 | [Conditional Statements](https://github.com/heispv/programming-feb2023/blob/master/07_programming.ipynb) | `if`, `elif`, `else`, `Truthy`, `Falsy` |  |  | 1 Mar 2023 |
 | 08 | [Loops](https://github.com/heispv/programming-feb2023/blob/master/08_programming.ipynb) | `loops`, `for`, `continue` |  |  | 6 Mar 2023 |
+| 09 | [While and how write functions.](https://github.com/heispv/programming-feb2023/blob/master/09_programming.ipynb) | `break`, `while`, `functions` |  |  | 8 Mar 2023 |
+| 10 | [Going deeper into Functions + Scope](https://github.com/heispv/programming-feb2023/blob/master/10_programming.ipynb) | `functions`, `scope` |  |  | 8 Mar 2023 |
+| 11 | [Let's code a game and start to review](https://github.com/heispv/programming-feb2023/blob/master/11_programming.ipynb) | `rock, paper, scissors`, `review1` |  |  | 19 Apr 2023 |
+| 12 | [Let's Review (part2)](https://github.com/heispv/programming-feb2023/blob/master/12_programming.ipynb) | `review2` |  |  | 26 Apr 2023 |
+| 13 | [Let's Review (part3)](https://github.com/heispv/programming-feb2023/blob/master/13_programming.ipynb) | `review3` |  |  | 3 May 2023 |
+| 14 | [Review is done, Let's continue](https://github.com/heispv/programming-feb2023/blob/master/13_programming.ipynb) | `review4`, `array`, `matric`, `vector` |  |  | 10 May 2023 |
