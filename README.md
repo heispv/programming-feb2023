@@ -22,3 +22,4 @@ git clone https://github.com/heispv/programming-feb2023.git
 | 12 | [Let's Review (part2)](https://github.com/heispv/programming-feb2023/blob/master/12_programming.ipynb) | `review2` |  |  | 26 Apr 2023 |
 | 13 | [Let's Review (part3)](https://github.com/heispv/programming-feb2023/blob/master/13_programming.ipynb) | `review3` |  |  | 3 May 2023 |
 | 14 | [Review is done, Let's continue](https://github.com/heispv/programming-feb2023/blob/master/14_programming.ipynb) | `review4`, `array`, `matric`, `vector` |  |  | 10 May 2023 |
+| 15 | [Review is done, Let's continue](https://github.com/heispv/programming-feb2023/blob/master/15_programming.ipynb) | `NumPy`, `Vector`, `Matrix`, `Tensor` |  |  | 15 May 2023 |
