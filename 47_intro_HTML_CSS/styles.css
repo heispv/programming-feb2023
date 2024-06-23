@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+p {
+    color: black;
+    text-align: left;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    background-color: lightblue;
+    margin: 5px;
+    padding: 10px;
+}
